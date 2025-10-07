@@ -1,21 +1,15 @@
 <!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Khoirul Anam</h1>
-<h3 align="center">🚀 Backend Developer in Progress | Passionate about Code & Network Engineering</h3>
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Backend+Developer;Web+Developer;Network+Engineer;Tech+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Muhammad Khoirul Anam</h1>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a Computer Science student at **STT Terpadu Nurul Fikri**
-- 💡 Currently learning **Backend Development & Network Engineering**
-- ⚙️ Tech Stack: HTML, CSS, JavaScript, Python, PHP, Laravel, XAMPP
-- 💬 Ask me about **web development & backend logic**
-- 🎯 Goals: Become a **Backend Developer** & own a home in Kelapa Gading 🏠
-- 📫 Reach me: **[LinkedIn](#)** | **[Email](mailto:your-email@gmail.com)**
+- 🎓 I'm interested in Web Development, Network Engineer, and Cyber Security
+- 💡 Currently learning **Frontend Deveopment, Backend Development, Network Engineering & Cyber Security**
+- 🌐 Passionate about **network engineering** and system reliability 
+- 🚀 Continuously learning to turn ideas into impactful tech solutions
+- 💭 Motto: “Build with logic, deliver with passion.”
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/muhammad-khoirul-anam-59b584299/)** | **[Email](anams908004@gmail.com@gmail.com)**
 
 ---
 
