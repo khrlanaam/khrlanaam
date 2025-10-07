@@ -4,12 +4,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm interested in Web Development, Network Engineer, and Cyber Security
-- 💡 Currently learning **Frontend Deveopment, Backend Development, Network Engineering & Cyber Security**
-- 🌐 Passionate about **network engineering** and system reliability 
+- 🎓 I'm interested in **Web Development, Network Engineering, and Cyber Security**
+- 💡 Currently learning **Frontend Development, Backend Development, Network Engineering & Cyber Security**
+- 🌐 Passionate about **network infrastructure** and **system reliability**
 - 🚀 Continuously learning to turn ideas into impactful tech solutions
 - 💭 Motto: “Build with logic, deliver with passion.”
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/muhammad-khoirul-anam-59b584299/)** | **[Email](anams908004@gmail.com@gmail.com)**
 
 ---
 
@@ -48,11 +47,17 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khrlanaam&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-khoirul-anam-59b584299/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anams908004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
